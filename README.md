@@ -40,6 +40,7 @@ To run this project, you’ll need:
 
 * Java JDK installed (version 8 or higher).
 * Git for version control and project management.
+* **VSCode** with **Java Extension Pack** (required to run the project).
 
 ---
 
@@ -52,24 +53,17 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/Amit-Bruhim/Arkanoid.git
 ```
-### 2. Navigate into the src folder
+### 2. Open the project in VSCode
 ```bash
 cd Arkanoid/src
 ```
-### 3. Compile the project
 ```bash
-javac -cp ../biuoop-1.4.jar -d ../out */*.java
+code.
 ```
 ### 4. Run the main program
+1. Open the `ArkanoidGame` file located in the `src` folder.
+2. Press the Run button at the top of the editor.
 
-- **Windows:**
-```bash
-java -cp ../biuoop-1.4.jar;../out ArkanoidGame
-```
-- **Linux / macOS:**
-```bash
-java -cp ../biuoop-1.4.jar:../out ArkanoidGame
-```
 ---
 
 ## Usage
