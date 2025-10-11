@@ -58,11 +58,17 @@ cd Arkanoid/src
 ```
 ### 3. Compile the project
 ```bash
-javac -cp ../biuoop-1.4.jar ArkanoidGame.java
+javac -cp ../biuoop-1.4.jar -d ../out */*.java
 ```
 ### 4. Run the main program
+
+- **Windows:**
 ```bash
-java -cp .:../biuoop-1.4.jar ArkanoidGame
+java -cp ../biuoop-1.4.jar;../out ArkanoidGame
+```
+- **Linux / macOS:**
+```bash
+java -cp ../biuoop-1.4.jar:../out ArkanoidGame
 ```
 ---
 
