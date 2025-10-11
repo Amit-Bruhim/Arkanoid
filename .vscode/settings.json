@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "biuoop-1.4.jar",
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
