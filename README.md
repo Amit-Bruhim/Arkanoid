@@ -55,10 +55,10 @@ git clone https://github.com/Amit-Bruhim/Arkanoid.git
 ```
 ### 2. Open the project in VSCode
 ```bash
-cd Arkanoid/src
+cd Arkanoid
 ```
 ```bash
-code
+code .
 ```
 ### 4. Run the main program
 1. Open the `ArkanoidGame` file located in the `src` folder.
