@@ -54,7 +54,7 @@ git clone https://github.com/Amit-Bruhim/Arkanoid.git
 ```
 ### 2. Navigate into the src folder
 ```bash
-cd Logic-Expressions/src
+cd Arkanoid/src
 ```
 ### 3. Compile the project
 ```bash
