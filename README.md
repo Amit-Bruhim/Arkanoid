@@ -58,11 +58,14 @@ git clone https://github.com/Amit-Bruhim/Arkanoid.git
 cd Arkanoid/src
 ```
 ```bash
-code.
+code
 ```
 ### 4. Run the main program
 1. Open the `ArkanoidGame` file located in the `src` folder.
-2. Press the Run button at the top of the editor.
+2. click the **Run** button that appears **next to the `main` method** inside `ArkanoidGame.java`:
+
+![run button](images/main%20run.png)
+
 
 ---
 
