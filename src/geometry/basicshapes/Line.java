@@ -203,10 +203,10 @@ public class Line {
         double y1 = line.start.getY();
         double x2 = line.end.getX();
         double y2 = line.end.getY();
-        double maxX = Math.max(x1, x2);
-        double maxY = Math.max(y1, y2);
-        double minX = Math.min(x1, x2);
-        double minY = Math.min(y1, y2);
+        // double maxX = Math.max(x1, x2);
+        // double maxY = Math.max(y1, y2);
+        // double minX = Math.min(x1, x2);
+        // double minY = Math.min(y1, y2);
 
 
         // check if it is on the line segment

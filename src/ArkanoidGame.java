@@ -1,10 +1,9 @@
 import game.Game;
 
 /**
- * ID: 211548045
- * Ass5Game manage the game.
+ * ArkanoidGame manage the game.
  */
-public class Ass5Game {
+public class ArkanoidGame {
     /**
      * main.
      *
