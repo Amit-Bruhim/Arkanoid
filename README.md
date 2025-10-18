@@ -26,7 +26,7 @@ Design patterns and clean architecture principles are applied to structure the g
 
 ---
 
-### Features
+## Features
 
 - Paddle and ball mechanics with smooth collision detection.  
 - Brick layout with multiple rows and hit points.  
